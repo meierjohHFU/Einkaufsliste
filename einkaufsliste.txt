@@ -1,0 +1,8 @@
+Milch
+Zucker
+Salz
+Honig
+Mehl
+Eier
+Zimt
+Kaffee
