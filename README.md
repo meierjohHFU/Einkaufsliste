@@ -1,4 +1,7 @@
 # Einkaufsliste
 Einfache Einkaufsliste
 
-LEBENSLAUF
+## LEBENSLAUF
+
+* __Stichpunkt 1:__ Text 1
+* __Stichpunkt 2:__ Text 2
